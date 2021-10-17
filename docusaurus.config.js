@@ -57,8 +57,8 @@ const config = {
           // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://twitter.com/afeezaziz',
-            label: 'Twitter',
+            href: 'https://cryptolaunchpad.co/join?agent=afeezaziz',
+            label: 'Join the Revolution',
             position: 'right',
           },
         ],
@@ -66,15 +66,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Tutorial',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
           {
             title: 'Social Media',
             items: [
@@ -84,10 +75,10 @@ const config = {
                 href: 'https://www.instagram.com/afeezabdulaziz/',
               },
               
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/afeezaziz',
-              // },
+              {
+                label: 'Tiktok',
+                href: 'https://vt.tiktok.com/ZSeNscQUT/',
+              },
 
               {
                 label: 'Twitter',
