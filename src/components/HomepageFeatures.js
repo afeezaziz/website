@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Science',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I write about my thinking in science and technology, both from theoretical and 
+        practical perspectives.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Crypto',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I am heavily invested in crypto, in terms of money, time, soul and everything.
+        I hope that with my writings, it can make my thoughts clearer.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Business & Entrepreneurship',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I want to document everything that I have learnt throughout the process so 
+        that it can be a lesson to business owners and entrepreneurs in the future.
       </>
     ),
   },
