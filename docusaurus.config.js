@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Afeez Aziz',
-  tagline: 'My notepad and thinking',
+  tagline: 'Crypto Fanatic',
   url: 'https://afeezaziz.cryptolaunchpad.co',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,19 +43,34 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Notepad',
+        title: 'Afeez Aziz',
         logo: {
           alt: 'Notepad Logo',
-          src: 'img/logo.svg',
+          // src: 'img/logo.svg',
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            type: 'doc',
-            docId: 'intro',
+            href: 'https://chainbifrost.com',
+            label: 'Bifrost',
             position: 'left',
-            label: 'Tutorial',
-          },          
+          },    
+          {
+            href: 'https://bebola.org',
+            label: 'Bebola',
+            position: 'left',
+          },                  
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },        
+          {
+            href: 'https://t.me/tipskripto',
+            label: 'Tips Kripto (Malaysia)',
+            position: 'right',
+          },            
           {
             href: 'https://cryptolaunchpad.co/join?agent=afeezaziz',
             label: 'Join the Revolution',
@@ -100,7 +115,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Afeez Aziz. Made with Love in Malaysia.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Afeez Aziz. Made with Love by Afeez Aziz.`,
       },
       prism: {
         theme: lightCodeTheme,
