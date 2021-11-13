@@ -1,5 +1,5 @@
 ---
-title: [Whitepaper] Bebola DRAFT
+title: Whitepaper - Bebola DRAFT
 description: Whitepaper on Bebola
 slug: whitepaper-bebola
 authors: [afeezaziz]
