@@ -1,7 +1,7 @@
 ---
 title: [Whitepaper] Bebola DRAFT
 description: Whitepaper on Bebola
-slug: whitepaper
+slug: whitepaper-bebola
 authors: [afeezaziz]
 tags: [whitepaper]
 hide_table_of_contents: false

@@ -1,7 +1,7 @@
 ---
 title: Long hiatus from writing
 description: Afeez has been lazy in writing things..
-slug: hiatus
+slug: hiatus-lazy-to-write
 authors: [afeezaziz]
 tags: [hiatus]
 hide_table_of_contents: false
