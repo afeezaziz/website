@@ -46,7 +46,7 @@ const config = {
         title: 'Afeez Aziz',
         logo: {
           alt: 'Notepad Logo',
-          // src: 'img/logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
